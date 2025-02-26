@@ -4,9 +4,10 @@ import About from './components/About';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import Projects from './components/Projects';
-import Resume from './components/Resume'; // Added Resume
 import Certification from './components/Certification'; // Added Certification
 import Contact from './components/Contact';
+import Experience from "./components/Experience";
+
 
 export default function App() {
   return (
@@ -16,10 +17,10 @@ export default function App() {
         <Hero />
         <About />
         <Education />
-        <Skills />
         <Projects />
+        <Skills />
+        <Experience />
         <Certification /> {/* Added Certification Section */}
-        <Resume /> {/* Added Resume Section */}
         <Contact />
       </main>
     </div>
