@@ -1,0 +1,47 @@
+[
+  {
+    "name": "React",
+    "icon": "react",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Rust",
+    "icon": "rust",
+    "level": "Learning"
+  },
+  {
+    "name": "Core Java",
+    "icon": "java",
+    "level": "Intermediate"
+  },
+  {
+    "name": "SQL",
+    "icon": "database",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Express.js",
+    "icon": "express",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Next.js",
+    "icon": "nextjs",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Python",
+    "icon": "python",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Machine Learning",
+    "icon": "ml",
+    "level": "Intermediate"
+  },
+  {
+    "name": "AWS",
+    "icon": "aws",
+    "level": "Learning"
+  }
+]

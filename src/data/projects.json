@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Diabetes Prediction",
+    "description": "A machine learning model for diabetes prediction using Flask and scikit-learn.",
+    "tech": ["ML", "Flask", "NumPy", "scikit-learn", "HTML", "CSS", "Bootstrap"],
+    "demo": "https://diabetes-prediction-college-project.onrender.com",
+    "code": "https://github.com/mayankraj052/Diabetes-Prediction"
+  },
+  {
+    "title": "Real-Time Video Call App",
+    "description": "A video calling application where users can find and connect using their username, built with WebSockets.",
+    "tech": ["React", "WebSocket", "Node.js", "Express"],
+    "demo": "https://react-video-call-xvq3.onrender.com",
+    "code": "https://github.com/mayankraj052/react-video_call"
+  },
+  {
+    "title": "Real-Time Object Detection",
+    "description": "Object detection system using YOLO for real-time identification of objects.",
+    "tech": ["YOLO", "OpenCV", "Deep Learning", "Python"],
+    "demo": "#",
+    "code": "#"
+  }
+]

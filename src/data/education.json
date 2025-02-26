@@ -1,0 +1,21 @@
+[
+    {
+      "degree": "Bachelor of Technology (B.Tech) in Computer Science",
+      "university": "University of Engineering and Management, Jaipur",
+      "years": "2022 - 2026",
+      "description": "Studied Operating Systems (OS), Database Management Systems (DBMS), Computer Networking, Machine Learning (ML), Natural Language Processing (NLP), and Software Development Life Cycle (SDLC)."
+  },
+    {
+      "degree": "12th Standard (Senior Secondary)",
+      "university": "Bihar School Examination Board, Patna",
+      "years": "2020 - 2022",
+      "description": "Studied Physics, Chemistry, Mathematics, English and Hindi."
+    },
+    {
+      "degree": "10th Standard (Secondary Education)",
+      "university": "Bihar School Examination Board, Patna",
+      "years": "2017 - 2019",
+      "description": "Completed foundational education with a strong focus on Mathematics Science and Social Science."
+    }
+  ]
+  

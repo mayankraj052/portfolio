@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Database Management System",
+        "from": "NPTEL",
+        "marks": "78% (Top 5 Percentile)",
+        "link": "https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs75/Course/NPTEL24CS75S13720013902699652.pdf"
+    },
+    {
+        "title": "The Joy of Computing using Python",
+        "from": "NPTEL",
+        "marks": "76%",
+        "link": "https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs108/Course/NPTEL23CS108S53780260120250796.pdf"
+    },
+    {
+        "title": "Getting Started with Javascript",
+        "from": "Pupilfirst",
+        "marks": "",
+        "link": "https://www.pupilfirst.school/c/230612-5SFO6R"
+    },{
+        "title": "Data Structures and Algorithms using Java",
+        "from": "Infosys Springboard",
+        "marks": "",
+        "link": "https://drive.google.com/file/d/1sL6FBVgv3bs-r_pHJfEhspCXcjVWkI0F/view?usp=sharing"
+    }
+]
