@@ -1,14 +1,15 @@
-import { useState } from 'react';
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { useState } from "react";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
   const links = [
-    { name: 'About', href: '#about' },
-    { name: 'Skills', href: '#skills' },
-    { name: 'Projects', href: '#projects' },
-    { name: 'Contact', href: '#contact' },
-    { name: 'Resume', href: '#resume' }, // Added Resume link
+    { name: "About", href: "#about" },
+    { name: "Education", href: "#education" },
+    { name: "Projects", href: "#projects" },
+    { name: "Skills", href: "#skills" },
+    { name: "Experience", href: "#experience" },
+    { name: "Contact", href: "#contact" },
   ];
 
   return (
@@ -16,14 +17,14 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <span className="text-2xl font-bold text-gray-800">Portfolio</span>
-          
+
           {/* Desktop Nav */}
-          <div className="hidden md:flex space-x-8 items-center">
+          <div className="hidden md:flex space-x-4 items-center">
             {links.map((link) => (
               <a
                 key={link.name}
                 href={link.href}
-                className="text-gray-600 hover:text-indigo-600 transition-colors"
+                className="px-4 py-2 text-gray-600 rounded-lg transition-colors duration-300 hover:bg-indigo-600 hover:text-white"
               >
                 {link.name}
               </a>
@@ -55,7 +56,7 @@ export default function Navbar() {
               <a
                 key={link.name}
                 href={link.href}
-                className="block px-4 py-2 text-gray-600 hover:bg-gray-100"
+                className="block px-4 py-2 text-gray-600 rounded-lg transition-colors duration-300 hover:bg-indigo-600 hover:text-white"
               >
                 {link.name}
               </a>
