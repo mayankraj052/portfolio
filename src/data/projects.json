@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI-Powered Finance Management System",
+    "description": "A full-stack finance management app that supports multiple accounts, expense/income tracking, chart visualizations, AI-based receipt scanning using Gemini, and daily/monthly email updates. Built with Supabase, Tailwind, Prisma, and deployed on Vercel.",
+    "tech": ["Next.js", "Tailwind CSS", "Supabase", "Gemini AI", "Prisma", "Inngest", "Resend", "Recharts"],
+    "demo": "https://wealth-ebon.vercel.app/",
+    "code": "https://github.com/mayankraj052/AI_Money_Management"
+  },
+  {
     "title": "Diabetes Prediction",
     "description": "A machine learning model for diabetes prediction using Flask and scikit-learn.",
     "tech": ["ML", "Flask", "NumPy", "scikit-learn", "HTML", "CSS", "Bootstrap"],
